@@ -18,7 +18,7 @@ Informação também disponível no programa.
  
   O programa utiliza de alocação dinâmica e manipulação de ponteiros para a criação de arrays bidimensionais, sendo estes utilizados como matrizes.
   
-  # Consideraçõoes finais
+  # Considerações finais
   
   Espero inspirá-lo (a), através deste código, a ter novas ideias em seus scripts.
   
